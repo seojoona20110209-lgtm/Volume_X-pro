@@ -1,0 +1,13 @@
+기능,설명,엔진,복잡도
+미분,다항식 미분 계산,MathematicalEngine,O(n)
+적분,적분 공식 적용,MathematicalEngine,O(n^2)
+행렬연산,전치 역행렬 고유값,MathematicalEngine,O(n^3)
+감정분석,텍스트 감정 판단,LinguisticEngine,O(n)
+문법검사,문장 구조 분석,LinguisticEngine,O(n)
+자연어처리,텍스트 처리,LinguisticEngine,O(n)
+코드생성,자동 코드 생성,ProgrammingEngine,O(1)
+정렬알고리즘,퀵정렬 구현,ProgrammingEngine,O(n log n)
+검색알고리즘,이진검색 구현,ProgrammingEngine,O(log n)
+그래프처리,그래프 자료구조,ProgrammingEngine,O(n+m)
+프롬프트최적화,입력 최적화,PromptProcessor,O(n)
+응답생성,AI 응답 생성,PromptProcessor,O(n)
